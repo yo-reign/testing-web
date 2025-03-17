@@ -4,7 +4,13 @@
  *
  */
 
-.message {
-    font-weight: bold;
-    font-size: 3rem;
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: monospace;
+  color: #f0f0f0;
+  background-color: #202020;
 }
